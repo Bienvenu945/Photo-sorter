@@ -4,7 +4,7 @@ Triez des milliers de photos en quelques touches. Catégories 100 % personnalisa
 profils, interface HyperOS-inspired (surfaces sombres, cartes arrondies, accents bleu/violet).
 
 <p align="center">
-  <img src="photo-sorter.png" width="400" alt="Menu du Studio">
+  <img src="photo_sorter.png" width="400" alt="Menu du Studio">
 </p>
 
 *Conçu par Bienvenu K.K · © 2026*
